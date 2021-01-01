@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zion Home Screen</string>
+    <string name="list_of_state_parks">List of State Parks</string>
+    <string name="boating_info">Boating Information</string>
+    <string name="off_road_info">Off-Roading Information</string>
+    <string name="reservations">Making Reservations</string>
+    <string name="passes">Purchasing Passes</string>
+    <string name="maps">Map of the Parks</string>
+</resources>
